@@ -3,6 +3,7 @@
 This repository provides the implementation of the paper:
 
 Wentian Xu, Matthew Moffat, Thalia Seale, Ziyun Liang, Felix Wagner, Daniel Whitehouse, David Menon, Virginia Newcombe, Natalie Voets, Abhirup Banerjee, Konstantinos Kamnitsas.
+
 [Feasibility and benefits of joint learning from MRI databases with different brain diseases and modalities for segmentation](https://arxiv.org/pdf/2405.18511). In MIDL (2024).
 
 <!-- <img src="https://github.com/WenTXuL/LINR/overview.png" alt="Overview" width="100%"> -->
